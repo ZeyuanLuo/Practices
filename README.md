@@ -1,2 +1,2 @@
-# Mechine-Learning-Practice
+# Practices
 Practices codes
