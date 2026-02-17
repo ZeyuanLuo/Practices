@@ -1,0 +1,501 @@
+RespondentID,Primary Segment,Age,Gender,Monthly Household Income,Health-Conscious Condiment Use,Price-Sensitive Buying Style,Willingness_to_Buy_Heinz
+1,Family Shopper,29,1,2,4,3,6
+2,Convenience-Driven Buyer,60,3,1,4,4,3
+3,Family Shopper,29,2,1,6,3,6
+4,Family Shopper,51,2,3,5,5,6
+5,Family Shopper,49,2,3,4,3,6
+6,Family Shopper,37,2,3,4,6,3
+7,Young Flavor Explorer,35,1,2,6,3,6
+8,Young Flavor Explorer,23,2,1,4,3,6
+9,Family Shopper,37,1,3,4,3,7
+10,Convenience-Driven Buyer,50,1,1,1,5,2
+11,Convenience-Driven Buyer,72,2,3,3,7,1
+12,Convenience-Driven Buyer,61,1,3,4,3,6
+13,Family Shopper,35,2,1,7,5,2
+14,Young Flavor Explorer,20,1,3,2,2,7
+15,Convenience-Driven Buyer,46,1,1,3,5,2
+16,Family Shopper,52,2,3,5,3,7
+17,Convenience-Driven Buyer,73,2,2,4,5,5
+18,Family Shopper,55,1,1,3,4,3
+19,Young Flavor Explorer,35,2,4,5,2,6
+20,Young Flavor Explorer,34,1,3,3,4,5
+21,Convenience-Driven Buyer,77,1,2,4,7,2
+22,Young Flavor Explorer,34,1,1,2,4,5
+23,Young Flavor Explorer,25,1,1,3,3,5
+24,Convenience-Driven Buyer,36,1,1,4,6,6
+25,Family Shopper,38,2,2,5,5,5
+26,Convenience-Driven Buyer,79,2,4,6,5,5
+27,Young Flavor Explorer,30,1,3,4,5,3
+28,Young Flavor Explorer,31,2,2,5,1,7
+29,Young Flavor Explorer,33,1,2,5,4,6
+30,Young Flavor Explorer,30,2,3,7,2,6
+31,Family Shopper,45,1,2,4,4,5
+32,Family Shopper,48,1,3,5,5,3
+33,Young Flavor Explorer,28,1,1,4,2,6
+34,Family Shopper,52,2,2,5,3,7
+35,Young Flavor Explorer,35,1,4,4,4,6
+36,Family Shopper,48,1,1,5,7,2
+37,Convenience-Driven Buyer,61,1,1,3,3,5
+38,Family Shopper,34,1,2,3,5,3
+39,Young Flavor Explorer,21,2,1,3,5,2
+40,Family Shopper,37,2,4,2,6,2
+41,Convenience-Driven Buyer,34,1,3,3,4,6
+42,Young Flavor Explorer,27,2,2,7,6,1
+43,Family Shopper,53,1,2,4,4,6
+44,Young Flavor Explorer,28,1,2,3,4,6
+45,Convenience-Driven Buyer,45,2,3,3,3,7
+46,Family Shopper,51,2,3,2,2,7
+47,Family Shopper,52,1,2,4,3,6
+48,Young Flavor Explorer,25,2,1,5,3,6
+49,Young Flavor Explorer,32,2,2,3,5,3
+50,Young Flavor Explorer,28,1,1,4,2,6
+51,Family Shopper,47,2,2,7,4,5
+52,Family Shopper,30,1,2,4,4,5
+53,Convenience-Driven Buyer,52,2,2,4,4,6
+54,Young Flavor Explorer,25,1,1,3,2,6
+55,Family Shopper,45,2,2,4,3,7
+56,Young Flavor Explorer,32,1,1,5,4,5
+57,Young Flavor Explorer,21,2,4,4,3,6
+58,Family Shopper,51,1,3,6,4,6
+59,Family Shopper,37,3,3,4,5,5
+60,Convenience-Driven Buyer,41,1,2,3,7,1
+61,Young Flavor Explorer,35,1,3,3,2,7
+62,Convenience-Driven Buyer,28,2,2,2,5,2
+63,Family Shopper,33,2,2,5,3,6
+64,Family Shopper,30,1,1,4,4,5
+65,Family Shopper,32,2,4,5,5,5
+66,Family Shopper,45,2,3,5,3,7
+67,Young Flavor Explorer,34,1,3,3,5,3
+68,Young Flavor Explorer,31,1,2,2,2,7
+69,Convenience-Driven Buyer,70,1,1,3,4,6
+70,Convenience-Driven Buyer,33,2,1,2,6,2
+71,Family Shopper,43,1,2,4,2,7
+72,Convenience-Driven Buyer,51,1,1,3,7,1
+73,Young Flavor Explorer,24,1,2,2,1,7
+74,Convenience-Driven Buyer,74,1,1,4,3,6
+75,Convenience-Driven Buyer,74,2,2,5,6,2
+76,Convenience-Driven Buyer,66,1,2,2,4,6
+77,Young Flavor Explorer,19,2,2,4,3,6
+78,Convenience-Driven Buyer,36,2,3,1,3,7
+79,Young Flavor Explorer,26,2,3,5,5,6
+80,Family Shopper,42,2,2,3,3,7
+81,Family Shopper,43,2,2,4,5,4
+82,Family Shopper,31,2,2,4,3,6
+83,Convenience-Driven Buyer,47,2,2,2,5,2
+84,Young Flavor Explorer,28,1,3,6,2,6
+85,Convenience-Driven Buyer,22,2,2,3,5,3
+86,Convenience-Driven Buyer,45,2,2,3,5,3
+87,Convenience-Driven Buyer,39,2,4,2,6,6
+88,Family Shopper,31,1,3,5,2,7
+89,Convenience-Driven Buyer,41,2,2,7,7,1
+90,Family Shopper,31,1,1,5,3,5
+91,Family Shopper,50,1,3,3,5,3
+92,Young Flavor Explorer,33,1,2,2,6,2
+93,Young Flavor Explorer,34,2,1,6,5,2
+94,Young Flavor Explorer,31,1,3,4,4,5
+95,Young Flavor Explorer,27,2,2,3,1,7
+96,Family Shopper,42,2,2,3,3,6
+97,Family Shopper,42,2,3,5,4,7
+98,Convenience-Driven Buyer,46,1,3,6,5,5
+99,Convenience-Driven Buyer,67,2,2,6,5,5
+100,Family Shopper,48,3,2,6,4,5
+101,Young Flavor Explorer,28,2,3,3,4,6
+102,Convenience-Driven Buyer,51,1,1,6,2,6
+103,Young Flavor Explorer,20,1,4,3,5,5
+104,Convenience-Driven Buyer,63,1,2,3,3,6
+105,Family Shopper,38,2,3,3,4,6
+106,Young Flavor Explorer,20,1,2,4,4,6
+107,Young Flavor Explorer,20,1,1,2,1,7
+108,Convenience-Driven Buyer,50,1,2,5,5,6
+109,Family Shopper,29,1,2,5,5,4
+110,Young Flavor Explorer,23,1,1,5,2,6
+111,Family Shopper,35,1,3,5,6,3
+112,Convenience-Driven Buyer,51,1,1,4,2,6
+113,Family Shopper,49,2,1,7,3,6
+114,Family Shopper,37,2,2,4,7,1
+115,Convenience-Driven Buyer,34,3,3,4,6,3
+116,Convenience-Driven Buyer,44,2,4,2,7,1
+117,Convenience-Driven Buyer,64,1,1,5,3,6
+118,Family Shopper,29,2,3,6,1,7
+119,Family Shopper,52,2,3,3,6,3
+120,Young Flavor Explorer,26,2,2,3,1,7
+121,Family Shopper,48,1,3,7,5,5
+122,Young Flavor Explorer,19,2,2,5,4,6
+123,Convenience-Driven Buyer,69,1,1,4,2,6
+124,Young Flavor Explorer,29,2,3,4,3,6
+125,Young Flavor Explorer,33,2,1,6,2,7
+126,Convenience-Driven Buyer,51,2,1,6,4,3
+127,Young Flavor Explorer,30,2,3,2,5,5
+128,Young Flavor Explorer,18,1,1,3,5,3
+129,Family Shopper,36,2,3,5,4,7
+130,Young Flavor Explorer,25,1,2,5,3,6
+131,Young Flavor Explorer,25,2,2,2,4,6
+132,Family Shopper,48,1,1,6,4,3
+133,Family Shopper,43,1,2,3,4,6
+134,Convenience-Driven Buyer,45,2,3,5,4,6
+135,Young Flavor Explorer,22,2,2,5,2,6
+136,Family Shopper,36,1,2,2,5,2
+137,Young Flavor Explorer,29,1,2,1,2,7
+138,Young Flavor Explorer,29,1,1,7,3,6
+139,Convenience-Driven Buyer,74,1,3,2,3,7
+140,Convenience-Driven Buyer,23,1,2,6,5,5
+141,Family Shopper,34,1,3,5,5,6
+142,Convenience-Driven Buyer,77,1,3,4,3,7
+143,Family Shopper,36,2,1,5,5,3
+144,Young Flavor Explorer,23,1,3,5,4,6
+145,Family Shopper,53,1,2,5,4,6
+146,Family Shopper,51,1,1,6,5,2
+147,Convenience-Driven Buyer,45,2,1,1,5,2
+148,Young Flavor Explorer,19,2,3,3,3,7
+149,Young Flavor Explorer,18,1,2,2,5,2
+150,Convenience-Driven Buyer,53,2,2,4,4,7
+151,Young Flavor Explorer,22,1,1,3,2,6
+152,Family Shopper,38,1,3,4,6,3
+153,Convenience-Driven Buyer,49,1,3,5,3,7
+154,Young Flavor Explorer,35,2,1,3,4,5
+155,Convenience-Driven Buyer,43,2,2,3,4,6
+156,Convenience-Driven Buyer,42,2,2,5,7,1
+157,Young Flavor Explorer,20,1,1,2,4,5
+158,Family Shopper,39,2,3,3,3,6
+159,Convenience-Driven Buyer,43,2,2,6,2,7
+160,Family Shopper,41,2,3,6,4,6
+161,Family Shopper,39,1,2,5,5,3
+162,Young Flavor Explorer,21,1,2,5,4,6
+163,Young Flavor Explorer,25,2,3,6,3,6
+164,Young Flavor Explorer,35,1,3,4,3,6
+165,Convenience-Driven Buyer,33,1,3,5,4,6
+166,Young Flavor Explorer,23,2,2,3,4,6
+167,Family Shopper,48,2,1,3,4,3
+168,Young Flavor Explorer,32,1,2,4,1,6
+169,Convenience-Driven Buyer,58,2,3,5,7,1
+170,Convenience-Driven Buyer,25,2,2,3,3,7
+171,Young Flavor Explorer,32,1,1,3,3,6
+172,Young Flavor Explorer,21,1,2,2,4,6
+173,Convenience-Driven Buyer,24,1,4,4,5,6
+174,Family Shopper,34,2,3,4,5,3
+175,Family Shopper,43,2,2,3,5,3
+176,Family Shopper,44,2,3,4,5,5
+177,Young Flavor Explorer,19,1,2,5,4,7
+178,Family Shopper,41,2,3,4,4,6
+179,Convenience-Driven Buyer,23,2,1,5,4,5
+180,Convenience-Driven Buyer,66,2,1,4,4,5
+181,Young Flavor Explorer,30,2,2,4,5,3
+182,Young Flavor Explorer,28,2,1,3,2,6
+183,Young Flavor Explorer,24,2,1,4,1,7
+184,Convenience-Driven Buyer,74,1,1,3,6,1
+185,Convenience-Driven Buyer,31,2,3,4,7,2
+186,Family Shopper,43,1,3,3,3,6
+187,Family Shopper,46,2,4,3,7,1
+188,Convenience-Driven Buyer,42,1,1,2,5,2
+189,Family Shopper,36,2,2,6,5,3
+190,Young Flavor Explorer,19,1,3,6,5,3
+191,Convenience-Driven Buyer,76,1,2,2,6,2
+192,Young Flavor Explorer,19,1,3,3,2,7
+193,Young Flavor Explorer,33,2,4,2,4,6
+194,Convenience-Driven Buyer,75,1,3,3,5,6
+195,Family Shopper,35,2,4,3,4,6
+196,Young Flavor Explorer,29,1,1,3,4,3
+197,Family Shopper,47,1,3,4,5,5
+198,Family Shopper,45,2,2,4,2,7
+199,Young Flavor Explorer,22,1,2,5,5,4
+200,Convenience-Driven Buyer,63,2,2,1,3,7
+201,Young Flavor Explorer,27,2,2,4,4,5
+202,Young Flavor Explorer,34,1,2,4,3,6
+203,Convenience-Driven Buyer,41,1,1,5,4,5
+204,Convenience-Driven Buyer,36,3,1,3,7,2
+205,Young Flavor Explorer,34,2,3,4,3,6
+206,Convenience-Driven Buyer,43,2,3,3,4,6
+207,Family Shopper,33,2,3,5,3,7
+208,Family Shopper,42,1,2,4,1,7
+209,Young Flavor Explorer,27,2,3,4,5,4
+210,Family Shopper,53,2,4,5,6,5
+211,Convenience-Driven Buyer,58,3,2,3,6,2
+212,Convenience-Driven Buyer,55,1,1,4,7,1
+213,Convenience-Driven Buyer,77,1,3,5,4,6
+214,Young Flavor Explorer,21,2,2,4,4,6
+215,Convenience-Driven Buyer,32,1,4,4,6,2
+216,Convenience-Driven Buyer,80,1,2,3,5,5
+217,Young Flavor Explorer,19,1,2,4,4,6
+218,Convenience-Driven Buyer,36,1,4,5,3,7
+219,Convenience-Driven Buyer,72,1,1,5,4,3
+220,Family Shopper,54,1,3,4,4,6
+221,Young Flavor Explorer,20,1,1,6,6,2
+222,Convenience-Driven Buyer,60,2,1,3,6,1
+223,Family Shopper,29,1,3,4,4,6
+224,Convenience-Driven Buyer,75,2,2,5,5,5
+225,Family Shopper,35,2,2,6,4,6
+226,Convenience-Driven Buyer,58,1,3,7,7,2
+227,Family Shopper,30,2,2,5,2,7
+228,Young Flavor Explorer,18,1,2,2,1,6
+229,Young Flavor Explorer,26,2,2,5,4,6
+230,Convenience-Driven Buyer,64,2,3,3,4,6
+231,Convenience-Driven Buyer,24,1,2,2,3,7
+232,Convenience-Driven Buyer,65,1,3,2,3,6
+233,Young Flavor Explorer,20,2,3,5,4,5
+234,Convenience-Driven Buyer,72,1,1,5,4,5
+235,Family Shopper,54,2,2,5,3,6
+236,Convenience-Driven Buyer,44,2,1,3,4,4
+237,Family Shopper,53,1,3,4,1,7
+238,Convenience-Driven Buyer,46,1,1,3,4,5
+239,Young Flavor Explorer,34,1,1,3,4,3
+240,Young Flavor Explorer,23,2,1,6,4,3
+241,Convenience-Driven Buyer,41,1,3,4,6,6
+242,Family Shopper,42,1,3,2,7,1
+243,Family Shopper,36,2,3,6,5,3
+244,Young Flavor Explorer,30,1,3,3,1,7
+245,Young Flavor Explorer,22,2,2,3,4,6
+246,Young Flavor Explorer,25,2,2,3,5,2
+247,Family Shopper,47,1,2,4,5,3
+248,Convenience-Driven Buyer,26,2,2,2,6,2
+249,Family Shopper,35,2,1,5,6,2
+250,Family Shopper,45,1,3,4,3,7
+251,Young Flavor Explorer,27,2,4,4,4,6
+252,Convenience-Driven Buyer,26,1,3,3,5,6
+253,Convenience-Driven Buyer,65,2,4,2,3,7
+254,Convenience-Driven Buyer,57,2,3,5,3,7
+255,Convenience-Driven Buyer,66,2,3,3,5,5
+256,Family Shopper,34,2,2,3,4,6
+257,Young Flavor Explorer,29,1,4,6,6,5
+258,Convenience-Driven Buyer,26,1,4,3,3,7
+259,Family Shopper,52,1,3,5,5,6
+260,Young Flavor Explorer,20,1,2,3,6,2
+261,Young Flavor Explorer,35,2,1,5,3,5
+262,Convenience-Driven Buyer,80,2,3,2,5,6
+263,Family Shopper,33,1,3,3,7,1
+264,Young Flavor Explorer,27,2,1,3,2,7
+265,Family Shopper,32,2,3,6,5,3
+266,Convenience-Driven Buyer,59,2,1,2,3,5
+267,Convenience-Driven Buyer,60,1,4,6,6,7
+268,Convenience-Driven Buyer,27,1,3,2,4,6
+269,Convenience-Driven Buyer,71,2,3,6,5,5
+270,Family Shopper,45,1,4,2,4,7
+271,Young Flavor Explorer,30,1,1,5,4,5
+272,Convenience-Driven Buyer,52,1,2,5,7,2
+273,Family Shopper,38,2,3,5,4,6
+274,Convenience-Driven Buyer,45,2,1,4,6,1
+275,Family Shopper,42,1,1,4,5,2
+276,Young Flavor Explorer,31,1,3,5,5,2
+277,Young Flavor Explorer,28,1,1,5,3,6
+278,Young Flavor Explorer,27,1,1,3,4,6
+279,Young Flavor Explorer,25,1,2,5,4,6
+280,Convenience-Driven Buyer,78,2,3,3,5,6
+281,Family Shopper,31,1,3,4,2,6
+282,Family Shopper,39,1,1,3,3,5
+283,Young Flavor Explorer,27,1,2,4,2,6
+284,Convenience-Driven Buyer,61,2,1,5,5,2
+285,Convenience-Driven Buyer,72,3,2,3,5,5
+286,Convenience-Driven Buyer,60,2,2,4,5,6
+287,Convenience-Driven Buyer,43,2,2,5,7,1
+288,Family Shopper,32,1,3,7,7,1
+289,Young Flavor Explorer,27,2,2,2,3,6
+290,Young Flavor Explorer,27,1,1,4,4,3
+291,Family Shopper,41,2,3,4,2,7
+292,Family Shopper,28,2,2,3,1,7
+293,Young Flavor Explorer,25,2,2,5,5,5
+294,Convenience-Driven Buyer,61,2,2,4,4,6
+295,Young Flavor Explorer,21,1,2,3,4,6
+296,Family Shopper,34,1,3,7,3,6
+297,Convenience-Driven Buyer,69,2,3,2,5,6
+298,Convenience-Driven Buyer,64,1,2,5,4,6
+299,Family Shopper,45,1,2,5,2,7
+300,Family Shopper,48,2,2,1,4,6
+301,Family Shopper,36,2,2,6,4,6
+302,Family Shopper,37,2,3,3,4,6
+303,Convenience-Driven Buyer,57,2,3,3,6,2
+304,Convenience-Driven Buyer,65,2,3,3,6,2
+305,Family Shopper,52,2,2,4,6,2
+306,Young Flavor Explorer,29,2,2,4,3,6
+307,Young Flavor Explorer,35,1,2,4,4,6
+308,Young Flavor Explorer,25,1,2,2,3,6
+309,Family Shopper,29,1,2,3,4,5
+310,Young Flavor Explorer,22,1,2,5,3,7
+311,Young Flavor Explorer,33,1,1,5,3,6
+312,Family Shopper,48,1,3,4,3,6
+313,Young Flavor Explorer,19,2,1,5,3,6
+314,Convenience-Driven Buyer,80,1,3,4,4,6
+315,Convenience-Driven Buyer,69,2,4,4,5,6
+316,Convenience-Driven Buyer,58,2,4,3,6,3
+317,Young Flavor Explorer,35,2,3,5,5,5
+318,Family Shopper,36,1,1,5,5,2
+319,Family Shopper,36,2,1,4,5,2
+320,Young Flavor Explorer,24,1,3,6,2,6
+321,Family Shopper,44,1,2,7,6,3
+322,Young Flavor Explorer,33,1,1,4,5,2
+323,Convenience-Driven Buyer,70,1,2,2,4,7
+324,Family Shopper,36,2,3,5,4,6
+325,Convenience-Driven Buyer,41,1,3,6,3,5
+326,Family Shopper,52,1,1,5,3,6
+327,Young Flavor Explorer,25,1,1,5,5,3
+328,Convenience-Driven Buyer,60,1,3,5,4,6
+329,Convenience-Driven Buyer,73,2,1,4,7,2
+330,Convenience-Driven Buyer,77,2,2,2,5,3
+331,Young Flavor Explorer,21,1,2,2,3,5
+332,Convenience-Driven Buyer,31,1,3,2,6,2
+333,Convenience-Driven Buyer,67,2,1,1,5,3
+334,Family Shopper,42,1,2,3,3,6
+335,Family Shopper,49,2,3,3,6,2
+336,Young Flavor Explorer,24,2,1,4,4,6
+337,Family Shopper,29,2,1,5,4,3
+338,Young Flavor Explorer,31,1,1,3,2,6
+339,Young Flavor Explorer,31,1,3,1,4,6
+340,Convenience-Driven Buyer,46,1,3,3,3,7
+341,Young Flavor Explorer,29,1,4,3,4,6
+342,Young Flavor Explorer,25,2,3,5,3,6
+343,Family Shopper,51,2,2,5,3,6
+344,Young Flavor Explorer,29,1,1,6,2,6
+345,Convenience-Driven Buyer,24,2,2,4,2,6
+346,Convenience-Driven Buyer,23,1,1,2,4,4
+347,Convenience-Driven Buyer,65,2,1,3,3,5
+348,Family Shopper,35,2,3,5,3,7
+349,Family Shopper,37,1,4,3,3,7
+350,Family Shopper,52,2,2,4,5,3
+351,Family Shopper,49,2,2,4,6,3
+352,Young Flavor Explorer,23,2,2,1,4,6
+353,Young Flavor Explorer,30,2,1,3,4,5
+354,Family Shopper,40,1,2,5,5,6
+355,Convenience-Driven Buyer,76,2,3,5,4,7
+356,Convenience-Driven Buyer,48,2,1,4,6,1
+357,Young Flavor Explorer,20,2,3,6,5,3
+358,Young Flavor Explorer,24,1,2,4,3,6
+359,Young Flavor Explorer,20,1,3,4,2,6
+360,Young Flavor Explorer,33,1,3,3,6,2
+361,Family Shopper,34,2,4,7,7,1
+362,Young Flavor Explorer,33,2,2,4,2,6
+363,Convenience-Driven Buyer,37,2,3,2,6,2
+364,Family Shopper,39,1,2,6,3,6
+365,Convenience-Driven Buyer,73,3,2,5,2,7
+366,Convenience-Driven Buyer,45,1,1,5,3,6
+367,Family Shopper,28,1,4,3,3,7
+368,Young Flavor Explorer,22,1,1,3,3,5
+369,Young Flavor Explorer,35,2,2,4,6,3
+370,Young Flavor Explorer,33,1,2,4,4,5
+371,Young Flavor Explorer,35,1,3,2,3,7
+372,Convenience-Driven Buyer,25,2,3,6,6,2
+373,Convenience-Driven Buyer,25,2,2,4,4,6
+374,Convenience-Driven Buyer,67,1,1,3,5,2
+375,Convenience-Driven Buyer,62,2,3,2,5,6
+376,Young Flavor Explorer,18,2,2,6,4,3
+377,Family Shopper,45,2,1,5,2,6
+378,Family Shopper,53,2,2,6,3,6
+379,Family Shopper,35,1,2,5,3,6
+380,Young Flavor Explorer,30,1,4,3,4,5
+381,Family Shopper,50,1,3,6,2,7
+382,Convenience-Driven Buyer,76,2,1,2,6,2
+383,Family Shopper,43,1,1,5,5,3
+384,Family Shopper,41,2,2,7,3,6
+385,Young Flavor Explorer,34,2,1,6,2,5
+386,Convenience-Driven Buyer,58,1,1,6,6,2
+387,Convenience-Driven Buyer,79,2,3,5,7,1
+388,Young Flavor Explorer,18,2,2,4,1,7
+389,Convenience-Driven Buyer,47,2,2,2,4,6
+390,Convenience-Driven Buyer,76,1,3,2,7,1
+391,Family Shopper,32,2,3,6,5,3
+392,Convenience-Driven Buyer,44,1,2,4,4,6
+393,Young Flavor Explorer,30,2,1,2,2,6
+394,Convenience-Driven Buyer,50,1,2,5,4,6
+395,Convenience-Driven Buyer,65,2,2,4,4,6
+396,Convenience-Driven Buyer,37,2,1,5,7,1
+397,Young Flavor Explorer,22,2,1,4,4,4
+398,Family Shopper,37,1,3,5,4,6
+399,Convenience-Driven Buyer,49,1,2,3,5,6
+400,Young Flavor Explorer,29,2,2,5,1,7
+401,Family Shopper,28,1,2,7,6,1
+402,Convenience-Driven Buyer,79,3,1,2,5,2
+403,Convenience-Driven Buyer,32,1,2,3,5,2
+404,Convenience-Driven Buyer,49,1,2,4,4,6
+405,Family Shopper,35,2,2,3,3,6
+406,Convenience-Driven Buyer,30,1,4,3,6,2
+407,Family Shopper,53,2,2,2,5,2
+408,Young Flavor Explorer,22,1,2,3,2,6
+409,Young Flavor Explorer,23,2,4,3,6,2
+410,Family Shopper,43,2,3,4,5,5
+411,Young Flavor Explorer,30,1,3,5,7,2
+412,Young Flavor Explorer,23,2,2,5,3,6
+413,Young Flavor Explorer,24,1,1,3,1,7
+414,Convenience-Driven Buyer,72,2,3,4,6,3
+415,Convenience-Driven Buyer,38,2,3,4,4,6
+416,Family Shopper,47,1,2,2,4,6
+417,Convenience-Driven Buyer,66,1,1,5,4,5
+418,Convenience-Driven Buyer,73,2,3,5,6,3
+419,Family Shopper,49,2,2,3,3,6
+420,Convenience-Driven Buyer,63,2,2,4,1,6
+421,Family Shopper,41,1,1,5,6,1
+422,Convenience-Driven Buyer,57,2,2,2,5,3
+423,Family Shopper,52,2,3,7,7,1
+424,Family Shopper,43,1,2,5,4,7
+425,Convenience-Driven Buyer,68,1,2,3,5,2
+426,Family Shopper,43,1,1,4,2,6
+427,Young Flavor Explorer,20,1,3,6,5,3
+428,Young Flavor Explorer,21,2,1,5,3,6
+429,Young Flavor Explorer,23,2,1,3,4,6
+430,Young Flavor Explorer,30,2,1,3,2,7
+431,Convenience-Driven Buyer,69,2,1,2,4,4
+432,Family Shopper,50,1,2,4,2,7
+433,Young Flavor Explorer,21,2,2,3,4,6
+434,Family Shopper,31,1,3,3,4,6
+435,Young Flavor Explorer,30,2,2,3,6,2
+436,Family Shopper,47,1,3,5,1,7
+437,Young Flavor Explorer,20,2,1,4,4,5
+438,Young Flavor Explorer,29,2,2,3,4,6
+439,Convenience-Driven Buyer,46,1,2,1,4,6
+440,Family Shopper,33,2,2,5,5,5
+441,Convenience-Driven Buyer,50,2,3,5,4,6
+442,Family Shopper,34,2,4,3,4,6
+443,Young Flavor Explorer,33,1,3,3,4,6
+444,Young Flavor Explorer,18,2,1,5,4,5
+445,Convenience-Driven Buyer,40,1,2,3,2,6
+446,Young Flavor Explorer,35,2,2,4,5,3
+447,Family Shopper,39,2,3,5,2,7
+448,Young Flavor Explorer,24,3,1,5,1,7
+449,Convenience-Driven Buyer,41,2,1,3,7,1
+450,Convenience-Driven Buyer,27,1,4,4,4,6
+451,Young Flavor Explorer,29,2,2,2,4,6
+452,Convenience-Driven Buyer,72,1,1,5,5,3
+453,Family Shopper,36,2,2,6,4,6
+454,Family Shopper,46,1,3,6,4,6
+455,Convenience-Driven Buyer,28,1,3,3,5,3
+456,Young Flavor Explorer,26,2,1,5,3,3
+457,Convenience-Driven Buyer,67,1,1,4,4,5
+458,Convenience-Driven Buyer,31,2,2,2,6,2
+459,Family Shopper,48,2,3,3,5,5
+460,Convenience-Driven Buyer,66,2,2,5,4,6
+461,Convenience-Driven Buyer,22,2,3,6,7,1
+462,Family Shopper,48,2,2,6,5,2
+463,Convenience-Driven Buyer,35,2,3,2,5,3
+464,Convenience-Driven Buyer,40,1,2,2,4,6
+465,Family Shopper,38,2,3,6,5,3
+466,Young Flavor Explorer,32,1,3,5,5,3
+467,Young Flavor Explorer,31,1,2,5,5,3
+468,Family Shopper,33,2,3,6,5,3
+469,Young Flavor Explorer,20,1,3,5,5,3
+470,Convenience-Driven Buyer,41,2,3,3,5,3
+471,Convenience-Driven Buyer,28,1,2,4,6,3
+472,Convenience-Driven Buyer,65,1,1,3,5,2
+473,Convenience-Driven Buyer,77,1,1,5,5,2
+474,Family Shopper,51,2,1,4,5,3
+475,Young Flavor Explorer,30,2,3,7,7,2
+476,Family Shopper,32,1,3,4,3,7
+477,Young Flavor Explorer,29,2,2,5,5,6
+478,Young Flavor Explorer,32,2,1,6,5,2
+479,Family Shopper,46,2,2,2,5,3
+480,Family Shopper,35,1,1,3,3,5
+481,Family Shopper,47,1,4,7,4,6
+482,Family Shopper,37,1,3,5,5,3
+483,Family Shopper,48,1,3,6,4,6
+484,Young Flavor Explorer,21,1,2,6,5,3
+485,Young Flavor Explorer,18,3,3,6,6,2
+486,Family Shopper,46,1,2,5,5,3
+487,Young Flavor Explorer,20,1,1,4,4,5
+488,Convenience-Driven Buyer,25,2,2,3,7,2
+489,Convenience-Driven Buyer,71,1,3,5,6,2
+490,Convenience-Driven Buyer,61,1,1,6,6,1
+491,Family Shopper,53,1,2,3,3,7
+492,Convenience-Driven Buyer,63,2,1,3,3,6
+493,Family Shopper,55,1,2,5,4,6
+494,Family Shopper,47,2,2,4,2,7
+495,Family Shopper,31,1,1,6,4,5
+496,Family Shopper,39,2,3,4,3,6
+497,Convenience-Driven Buyer,30,2,3,3,4,6
+498,Family Shopper,28,1,2,3,4,6
+499,Family Shopper,46,2,2,4,4,6
+500,Young Flavor Explorer,23,1,1,5,5,2
